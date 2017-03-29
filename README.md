@@ -14,8 +14,11 @@ In order to be considered for the Software Engineer - Mobile position, you must 
 
 ## Task
 
-1. Complete [Github Task](Github-Task). 
-2. Complete [Flickr Flipper Task](Flickr-Task).
-3. Commit and push your code to your new repository.
+* Complete [Background Location Tracking Task](Location-Tracker).
+
+Complete any one of following:
+* Complete [Github Task](Github-Task). 
+* Complete [Flickr Flipper Task](Flickr-Task).
+4. Commit and push your code to your new repository.
 
 To apply, please email akhil@loktra.com with your solution - Software Engineer as the first word in the subject line. Include link of your code on Github, and also send us a current resume in HTML, Plain Text, or PDF format. In the body of the email please explain why you would be a good fit for this job.
